@@ -1,0 +1,59 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background: #211E1E;
+    margin-bottom: 100px;
+}
+ul{
+    display: flex;
+    width:100%;
+    justify-content: space-between;
+}
+nav{
+    width:60%;
+}
+li{
+    list-style: none;
+}
+.link{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FA5E06;
+    text-decoration: none;
+}
+a{
+    color: #FF8A00;
+}
+body{
+    margin: 0%;
+}
+h1{
+    text-align: center;
+    color: #FA5E06;
+}
+main{
+    padding-left:100px;
+}
+.tablet{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.tablet>img{
+    width: 30%;
+}
+.ul2{
+   display: block;
+}
+footer{
+    text-align: center  ;
+    background-color: black;
+    color:white
+}
+.secrets>p{
+color:#DF6B17;
+}
+.characters{
+    color: #FF8A00;
+}
